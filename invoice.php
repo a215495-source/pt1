@@ -105,7 +105,6 @@
     border: none !important;
     background: transparent !important;
     }
-    
 
 }
 </style>
